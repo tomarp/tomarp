@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hi+there%2C+I+am+Puneet+Tomar+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&lines=Welcome+to+my+repositories.;Feel+free+to+explore+the+content.;I+would+be+glad+to+discuss+the+projects.;Don't+hesitate+to+drop+me+a+text+message..+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&lines=Hi+there%2C+I+am+Puneet+Tomar+.;Welcome+to+my+repositories.;Feel+free+to+explore+the+content.;I+would+be+glad+to+discuss+the+projects.;Don't+hesitate+to+drop+me+a+text+message..+)](https://git.io/typing-svg)
 
 
 ## :link: Links
