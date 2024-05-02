@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **tomarp/tomarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hi+there%2C+I+am+Puneet+Tomar+.)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&lines=Welcome+to+Tomar's+repositories.;Feel+free+to+explore+the+content.;I+would+be+glad+to+discuss+new+projects.;Don't+hesitate+to+drop+me+a+text+message.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&lines=Welcome+to+my+repositories.;Feel+free+to+explore+the+content.;I+would+be+glad+to+discuss+the+projects.;Don't+hesitate+to+drop+me+a+text+message..+)](https://git.io/typing-svg)
 
 
 ## :link: Links
@@ -26,9 +25,9 @@ Here are some ideas to get you started:
     <a href="mailto:tomarp@pm.me"><img src="https://raw.githubusercontent.com/tomarp/icons/main/email-postcard2.svg" alt="email" width="90" height="90"/></a>
   <a href="https://www.linkedin.com/in/tomarp"><img src="https://raw.githubusercontent.com/tomarp/icons/main/linkedin-original.svg" alt="linkedin" width="90" height="90"/></a>
   <a href="https://discord.gg/844827150255521823"><img src="https://raw.githubusercontent.com/tomarp/icons/main/discord.svg" alt="discord" width="90" height="90"/></a>
-  <a href="https://twitter.com/puneet_tomar"><img src="https://raw.githubusercontent.com/tomarp/icons/main/twitter.svg" alt="twitter" width="90" height="90"/></a>
-  <a href="https://www.youtube.com/user/neuroide"><img src="https://raw.githubusercontent.com/tomarp/icons/main/youtube_1.svg" alt="youtube" width="90" height="90"/></a>
-  <a href="https://www.instagram.com/matyo91"><img src="https://raw.githubusercontent.com/tomarp/icons/main/instagram.svg" alt="instagram" width="90" height="90"/></a>
+  <a href="https://twitter.com/puneet_tomar"><img src="https://raw.githubusercontent.com/tomarp/icons/main/twitter_X_color.svg" alt="twitter" width="80" height="80"/></a>
+  <a href="https://www.youtube.com/user/@neuroide"><img src="https://raw.githubusercontent.com/tomarp/icons/main/youtube_1.svg" alt="youtube" width="90" height="90"/></a>
+  <a href="https://www.instagram.com/neuroide"><img src="https://raw.githubusercontent.com/tomarp/icons/main/instagram.svg" alt="instagram" width="90" height="90"/></a>
   <a href="https://hub.docker.com/u/tomarp"><img src="https://raw.githubusercontent.com/tomarp/icons/main/docker.svg" alt="docker" width="90" height="90"/></a>
   <a href="https://git-stars.com/user/tomarp"><img src="https://img.icons8.com/color/96/000000/star.png" alt="gitstars"/></a>
   <a href="https://mastodon.social/@tomarp"><img src="https://raw.githubusercontent.com/tomarp/icons/main/mastodon.svg" alt="mastodon" width="90" height="90"/></a>
