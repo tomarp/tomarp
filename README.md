@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@neuroide"><img src="https://raw.githubusercontent.com/tomarp/icons/main/medium.svg" alt="medium"  width="90" height="90"/></a>
 </p>
 
-
+`Note: Most of the above mentioned links are under development`
 
 ## 🧰 &nbsp;My toolbox
 
