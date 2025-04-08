@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Hi+there%2C+I+am+Puneet+Tomar.+Welcome+to+my+profile.;My+research+focus+is+on+NEUROSCIENCE+•+COMPUTER+VISIOIN+•+DIGITAL+SIGNAL+PROCESSING.;Currently+I+am+exploring+the+mysteries+of+human+brain+through+Perception,+Intraction+&+Neural+Dynamics.;Feel+free+to+explore+the+existing+projects.;Join+me+on+my+journey+of+discovery!;Feel+free+to+drop+me+a+email+at+tomarp@proton.me.+)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=1200&height=100&lines=Hi+there%2C+I+am+Puneet+Tomar.+Welcome+to+my+profile.;My+research+focus+is+on+—+NEUROSCIENCE+•+COMPUTER+VISION+•+DIGITAL+SIGNAL+PROCESSING;Currently+exploring+the+mysteries+of+the+human+brain+throug+Perception%2C+Intraction%2C+Neural+Dynamics.;Feel+free+to+explore+my+projects+and+join+me+on+my+journey+of+discovery!;Drop+me+an+email+at+tomarp@proton.me+and+share+your+thoughts.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Hi+there%2C+I+am+Puneet+Tomar.;Welcome+to+my+profile.;Feel+free+to+explore+the+existing+projects.;I+would+be+glad+to+discuss+on+new+project+ideas.;Don't+hesitate+to+drop+me+a+text+message.+)](https://git.io/typing-svg)
+
+
 
 
 ## :link: Links
